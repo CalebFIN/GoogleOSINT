@@ -8,7 +8,7 @@ This tool is designed to provide a simple interface for conducting open-source i
 ## Installation
 Clone this repository to your local machine:
 ```
-git clone https://github.com/yourusername/OSINT-Search-Engine-Scraper.git](https://github.com/CalebFIN/GoogleOSINT.git
+git clone https://github.com/CalebFIN/GoogleOSINT.git
 ```
 Then navigate to the directory:
 ```
