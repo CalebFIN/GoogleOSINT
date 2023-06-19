@@ -27,7 +27,7 @@ cse_id="YOUR CSE ID HERE"
 ```
 Run the main script:
 ```
-python main.py
+python SEARCHMAIN.py
 ```
 Enter search terms when prompted, separating multiple terms with commas:
 ```
