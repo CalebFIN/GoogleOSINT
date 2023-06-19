@@ -12,7 +12,7 @@ git clone https://github.com/yourusername/OSINT-Search-Engine-Scraper.git](https
 ```
 Then navigate to the directory:
 ```
-cd OSINT-Search-Engine-Scraper
+cd GoogleOSINT
 ```
 Install the required packages:
 ```
